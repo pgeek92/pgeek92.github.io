@@ -2,12 +2,10 @@
 Web Portfolio to showcase projects and skills in better manner. 
 
 ### About me
-* Data Structures And Algorithms Page
-* Software Development Page
-* Certifications Page
-* Honours & Awards Page
+* About Page
+* Resume Page
+* Contact Page
 
-### Hire Me banner
 ### Skills
 * Skills with progress bar
 ### Education
