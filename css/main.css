@@ -405,7 +405,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   font-size: 60px;
 }
 .sny-icon-content{
-  text-align: center;
+  text-align: left;
 }
 .sny-icon-content h4{
   margin-bottom:6px; 
